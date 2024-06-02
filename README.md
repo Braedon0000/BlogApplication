@@ -8,7 +8,8 @@
 </p>
 
 
-
+## Link to github:
+https://github.com/Braedon0000/BlogApplication/tree/master
 
 ## What was used
 •	Laravel
